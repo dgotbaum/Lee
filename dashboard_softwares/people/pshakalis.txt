@@ -1,0 +1,69 @@
+ <!-- Peter Shakalis -->
+<hr id="pshakalis" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Peter_Shakalis.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Peter<span class="text-muted"> Shakalis</span></h2>
+        <p class="lead"><b style="color: Gray">Managing Director</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:pshakalis@lee-associates.com?Subject=Hello%20Peter!" target="_top">pshakalis@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1266<br><br>
+            <span class="text-muted">specialties <br></span>
+                Office leasing: tenant representation <br>
+            <br><span class="text-muted">geographies<br> </span>New York<br><br>
+            <span class="text-muted">real estate career<br> </span>1982<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#pshakalisTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="pshakalisTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Government of Greece, multiple locations, 150,000 sf</li>
+                            <li>Crozier Fine Arts, 525 West 20th Street, 115,000 sf</li>
+                            <li>New Zealand Mission to the United Nations, 600 Third Avenue, 12,000 sf</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#pshakalisAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="pshakalisAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li>
+                            <li>Young Men’s and Women’s Real Estate Association</li>
+                            <li>National Association Corporate Real Estate Executives</li>
+                            <li>Cyprus - U.S. Chamber of Commerce, Inc.</li>
+                            <li>The Hellenic American Bankers Association</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#pshakalisEDUCollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="pshakalisEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Bachelor of Business Administration in Marketing, Hofstra University</li>
+                            <li>Certificate in Real Estate Finance and Investment, New York University</li>
+                            <li>Licensed in New York</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Peter Shakalis -->
+
+
+
+
+<!-- ALLOW SPACE -->

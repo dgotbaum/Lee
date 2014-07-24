@@ -1,0 +1,67 @@
+ <!-- Justin Myers -->
+<hr id="jmyers" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Justin_Myers.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Justin<span class="text-muted"> Myers</span></h2>
+        <p class="lead"><b style="color: Gray">Associate</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:jmyers@lee-associates.com?Subject=Hello%20Justin!" target="_top">jmyers@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1281<br><br>
+            <span class="text-muted">specialties <br></span>
+                Retail leasing <br>
+            <br><span class="text-muted">geographies<br> </span>Manhattan<br><br>
+            <span class="text-muted">real estate career<br> </span>2011<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jmyersTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="jmyersTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Exclusive representation: Cevich, CrossFit</li>
+                            <li>HKS Capital Partners, 127 West 24th Street, 3000 sf</li>
+                            <li>Stuart Klein Esquire, 90 Broad Street</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jmyersAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="jmyersAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li>
+                            <li>Jewish National Fund (JNF)</li>
+                            <li>Athlete, New York Athletic Club</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jmyersEDUCollapsable"> Education and Licenses </a>
+                </div>
+                <div id="jmyersEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Bachelor of Arts in Legal Studies, University of California, Berkeley</li>
+                            <li>Former International Professional Soccer Player</li>
+                            <li>Licensed in New York and California</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Justin Myers -->
+
+
+
+
+<!-- ALLOW SPACE -->

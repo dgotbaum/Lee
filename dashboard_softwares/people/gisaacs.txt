@@ -1,0 +1,67 @@
+ <!-- Gabe Isaacs -->
+<hr id="gisaacs" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Gabe_Isaacs.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Gabe<span class="text-muted"> Isaacs</span></h2>
+        <p class="lead"><b style="color: Gray">Managing Director</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:gisaacs@lee-associates.com?Subject=Hello%20Gabe!" target="_top">gisaacs@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1271<br><br>
+            <span class="text-muted">specialties <br></span>
+                Office leasing: landlord and tenant representation <br>
+            <br><span class="text-muted">geographies<br> </span>Manhattan<br><br>
+            <span class="text-muted">real estate career<br> </span>1984<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#gisaacsTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="gisaacsTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Pace University, 140 William Street/96 Fulton Street, 50,000 sf</li>
+                            <li>Cooper Robertson, 311 West 43rd Street, disposition of 12,000 sf</li>
+                            <li>Pacific National Bank, 805 Third Avenue, 7000 sf</li>
+                            <li>Enterprise Lighting, 20 West 36th Street, 6800 sf</li>
+                            <li>YouBeauty, 648 Broadway, 5700 sf</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#gisaacsAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="gisaacsAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#gisaacsEDUCollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="gisaacsEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Licensed in New York</li>
+                            <li>Licensed pilot</li>
+                            <li>Coast Guard Captain</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Gabe Isaacs -->
+
+
+
+
+<!-- ALLOW SPACE -->

@@ -1,0 +1,66 @@
+ <!-- Caroline Kaplan -->
+<hr id="ckaplan" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Caroline_Kaplan.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Caroline<span class="text-muted"> Kaplan</span></h2>
+        <p class="lead"><b style="color: Gray">Marketing Manager</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:ckaplan@lee-associates.com?Subject=Hello%20Caroline!" target="_top">ckaplan@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1206<br><br>
+            <span class="text-muted">specialties <br></span>
+                Graphic design <br>
+                Marketing & Illustration <br>
+            <br><span class="text-muted">geographies<br> </span>New York<br><br>
+            <span class="text-muted">real estate career<br> </span>2010<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#ckaplanTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="ckaplanTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>648 Broadway, 1000000 sf</li>
+                            <li>Sprinkles</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#ckaplanAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="ckaplanAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li>
+                            <li>ICSC</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#ckaplanEDUCollapsable"> Education and Licenses </a>
+                </div>
+                <div id="ckaplanEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>DeVry Institute</li>
+                            <li>UIC</li>
+                            <li>Wagner College</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Caroline Kaplan -->
+
+
+
+
+<!-- ALLOW SPACE -->

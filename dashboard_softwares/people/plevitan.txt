@@ -1,0 +1,66 @@
+ <!-- Peter Levitan -->
+<hr id="plevitan" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Peter_Levitan.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Peter<span class="text-muted"> Levitan</span></h2>
+        <p class="lead"><b style="color: Gray">Senior Managing Director | Principal</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:plevitan@lee-associates.com?Subject=Hello%20Peter!" target="_top">plevitan@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1289<br><br>
+            <span class="text-muted">specialties <br></span>
+                Retail leasing: landlord and tenant representation  <br>
+                Acquisitions and sales <br>
+            <br><span class="text-muted">geographies<br> </span>Manhattan and Brooklyn<br><br>
+            <span class="text-muted">real estate career<br> </span>2006<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#plevitanTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="plevitanTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Pace University, 140 William Street/96 Fulton Street, 50,000 sf</li>
+                            <li>Flight Club, 812 Broadway, 8000 sf</li>
+                            <li>Sprinkles Cupcakes, 780 Lexington Avenue and Brookfield Place</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#plevitanAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="plevitanAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li>
+                            <li>ICSC</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#plevitanEDUCollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="plevitanEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Bachelor of Arts, Connecticut College</li>
+                            <li>Licensed in New York</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Peter Levitan -->
+
+
+
+
+<!-- ALLOW SPACE -->

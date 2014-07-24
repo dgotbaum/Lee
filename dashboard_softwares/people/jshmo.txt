@@ -1,0 +1,59 @@
+ <!-- Jo Shmo -->
+    <div id="jshmo" class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="../Headshots/Jo_Shmo.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-5">
+        <h2 class="featurette-heading">Jo<span class="text-muted"> Shmo</span></h2>
+        <p class="lead"><b style="color: Gray">Shmoin</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:jshmo@lee-associates.com?Subject=Hello%20Jo!" target="_top">jshmo@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1265<br><br>
+            <span class="text-muted">specialties <br></span>
+                asdfsd <br>
+                asdf <br>
+                asdf <br>
+            <br><span class="text-muted">geographies<br> </span><br><br>
+            <span class="text-muted">real estate career<br> </span><br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jshmoTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="jshmoTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jshmoAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="jshmoAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jshmoEDUCollapsable"> Education and Licenses </a>
+                </div>
+                <div id="jshmoEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Jo Shmo -->
+
+
+
+
+<!-- ALLOW SPACE -->

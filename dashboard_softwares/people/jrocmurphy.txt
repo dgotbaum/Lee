@@ -1,0 +1,62 @@
+ <!-- Jackie Roc-Murphy -->
+<hr id="jrocmurphy" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Jackie_Roc-Murphy.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Jackie<span class="text-muted"> Roc-Murphy</span></h2>
+        <p class="lead"><b style="color: Gray">Associate</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:jrocmurphy@lee-associates.com?Subject=Hello%20Jackie!" target="_top">jrocmurphy@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1251<br><br>
+            <span class="text-muted">specialties <br></span>
+                Retail leasing: landlord and tenant representation <br>
+            <br><span class="text-muted">geographies<br> </span>Manhattan and Brooklyn<br><br>
+            <span class="text-muted">real estate career<br> </span>Residential 2006; Retail 2012<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jrocmurphyTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="jrocmurphyTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jrocmurphyAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="jrocmurphyAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li>
+                            <li>Platinum Award, Top 10 Citi Habitats</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#jrocmurphyEDUCollapsable"> Education and Licenses </a>
+                </div>
+                <div id="jrocmurphyEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Associate Degree in Fashion Design, Fashion Institute of Technology</li>
+                            <li>Licensed in New York</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Jackie Roc-Murphy -->
+
+
+
+
+<!-- ALLOW SPACE -->

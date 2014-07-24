@@ -1,0 +1,82 @@
+h1 {
+	margin-bottom:0;
+	font-family: Futura, Century Gothic, Tahoma;
+	font-size: 10px;
+}
+h2 {
+	font-size: 40px;
+	font-family:Futura , Century Gothic, Tahoma;
+	color: #717073;
+	margin-bottom:0;
+	margin-top:0;
+}
+h3 {
+	font-size: 18px;
+	font-family: Futura, Century Gothic, Tahoma;
+	color: #717073;
+	text-indent: 6em;
+	margin-top:0;
+}
+
+h4 {
+	font-size: 18px;
+	color:#717073;
+	font-family:Futura, Century Gothic, Tahoma;
+	/*text-indent: 2em;*/
+}
+h5 {
+	color: #ED7E44;
+	font-size: 18px;
+	text-indent: 3em;
+	font-family: Helvetica, Century Gothic, Tahoma;
+}
+.red {
+	color: #98002E;
+}
+
+.orange {
+    color: #ED7E44;
+}
+.grayDiv {
+	color:white;
+	font-size:12px;
+	text-indent: 5em;
+	
+}
+.rightColumn {
+	margin-left: -30px; 
+    margin-top: 40px;
+}
+#brokers h1 {
+	font-size: 18px;
+	color:#ED7E44;
+	font-family:Futura, Century Gothic, Tahoma;
+	margin-bottom:0;
+}
+#brokers p {
+	font-family: Futura, Century Gothic, Tahoma;
+	font-size: 10px;
+	margin-top: 0;
+    color: white
+}
+#brokers td {
+	width: 200px;
+}
+#website h1{
+	font-size: 18px;
+	color:#ED7E44;
+	font-family:Futura, Century Gothic, Tahoma;
+	margin-bottom:0;
+}
+p > img {
+	border: thick black;
+	width: 500px;
+	height: 500px;
+	float:left;
+}
+p > dl {
+    margin-left: -50;
+}
+body {
+    background-color: #98002E;
+}

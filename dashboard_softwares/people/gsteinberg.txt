@@ -1,0 +1,58 @@
+ <!-- Garry Steinberg -->
+<hr id="gsteinberg" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Garry_Steinberg.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Garry<span class="text-muted"> Steinberg</span></h2>
+        <p class="lead"><b style="color: Gray">Managing Director | Principal</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:gsteinberg@lee-associates.com?Subject=Hello%20Garry!" target="_top">gsteinberg@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1285<br><br>
+            <span class="text-muted">specialties <br></span>
+                Retai <br>
+            <br><span class="text-muted">geographies<br> </span><br><br>
+            <span class="text-muted">real estate career<br> </span><br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#gsteinbergTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="gsteinbergTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#gsteinbergAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="gsteinbergAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#gsteinbergEDUCollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="gsteinbergEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Garry Steinberg -->
+
+
+
+
+<!-- ALLOW SPACE -->

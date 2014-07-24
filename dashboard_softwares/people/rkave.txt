@@ -1,0 +1,67 @@
+ <!-- Richard Kave -->
+<hr id="rkave" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Richard_Kave.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Richard<span class="text-muted"> Kave</span></h2>
+        <p class="lead"><b style="color: Gray">Managing Director</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:rkave@lee-associates.com?Subject=Hello%20Richard!" target="_top">rkave@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1291<br><br>
+            <span class="text-muted">specialties <br></span>
+                Retail leasing and acquisitions <br>
+            <br><span class="text-muted">geographies<br> </span>Manhattan<br><br>
+            <span class="text-muted">real estate career<br> </span>2000<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#rkaveTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="rkaveTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Comix, 353 west 14th Street, 14,000 sf</li>
+                            <li>Chase Bank, 305 Bowery, 7000 sf</li>
+                            <li>Starbucks, 2195 Frederick Douglas Boulevard, 3000 sf</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#rkaveAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="rkaveAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li>
+                            <li>ICSC</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#rkaveEDUCollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="rkaveEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Bachelor of Science in Engineering, University of New Mexico</li>
+                            <li>Licensed in New York</li>
+                            <li>LEED Green Associate</li>
+                            <li>Private pilot</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Richard Kave -->
+
+
+
+
+<!-- ALLOW SPACE -->

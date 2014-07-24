@@ -1,0 +1,66 @@
+ <!-- Drew Gotbaum -->
+    <div id="dgotbaum" class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="../Headshots/Drew_Gotbaum.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-5">
+        <h2 class="featurette-heading">Drew<span class="text-muted"> Gotbaum</span></h2>
+        <p class="lead"><b style="color: Gray">Computer Engineer</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:dgotbaum@lee-associates.com?Subject=Hello%20Drew!" target="_top">dgotbaum@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1265<br><br>
+            <span class="text-muted">specialties <br></span>
+                programming <br>
+                web stuff <br>
+            <br><span class="text-muted">geographies<br> </span>Manhattan<br><br>
+            <span class="text-muted">real estate career<br> </span>1990<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#dgotbaumTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="dgotbaumTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>coca cola</li>
+                            <li>pepsi</li>
+                            <li>cats</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#dgotbaumAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="dgotbaumAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>acadamy</li>
+                            <li>asdf</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#dgotbaumEDUCollapsable"> Education and Licenses </a>
+                </div>
+                <div id="dgotbaumEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Oberlin</li>
+                            <li>Saint anns</li>
+                            <li>bartending</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Drew Gotbaum -->
+
+
+
+
+<!-- ALLOW SPACE -->

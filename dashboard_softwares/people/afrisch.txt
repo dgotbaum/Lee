@@ -1,0 +1,65 @@
+ <!-- Adam Frisch -->
+<hr id="afrisch" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Adam_Frisch.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Adam<span class="text-muted"> Frisch</span></h2>
+        <p class="lead"><b style="color: Gray">Associate Director</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:afrisch@lee-associates.com?Subject=Hello%20Adam!" target="_top">afrisch@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1284<br><br>
+            <span class="text-muted">specialties <br></span>
+                Retail leasing: landlord and tenant representation <br>
+            <br><span class="text-muted">geographies<br> </span>New York<br><br>
+            <span class="text-muted">real estate career<br> </span>2006<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#afrischTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="afrischTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Exclusive representation: Orange Leaf, Turco Mediterranean Grill</li>
+                            <li>526 Amsterdam Avenue, 1600 sf</li>
+                            <li>345 Adam Street, 1100 sf</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#afrischAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="afrischAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li>
+                            <li>ICSC</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#afrischEDUCollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="afrischEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Attended Boston University</li>
+                            <li>Licensed in New York </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Adam Frisch -->
+
+
+
+
+<!-- ALLOW SPACE -->

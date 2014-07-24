@@ -1,0 +1,67 @@
+ <!-- Brad Schwarz -->
+<hr id="bschwarz" class="featurette-divider"> <br><br> 
+    <div class="row featurette" style="margin-bottom: 100px">
+<div class="col-md-5">
+        <img class="featurette-image img-responsive img-rounded" width="50%"  src="/Headshots/Brad_Schwarz.jpg" alt="Generic placeholder image">
+</div>
+<div class="col-md-7">
+        <h2 class="featurette-heading">Brad<span class="text-muted">Schwarz</span></h2>
+        <p class="lead"><b style="color: Gray">Senior Managing Director | Principal</b> <br>
+            <span class="text-muted">email: </span><a href="mailto:bschwarz@lee-associates.com?Subject=Hello%20Brad!" target="_top">bschwarz@lee-associates.com</a><br>
+            <span class="text-muted">telephone: </span> 212.776.1290<br><br>
+            <span class="text-muted">specialties <br></span>
+                Retail leasing: restaurants <br>
+                Landlord and tenant representation <br>
+            <br><span class="text-muted">geographies<br> </span>Manhattan and Brooklyn<br><br>
+            <span class="text-muted">real estate career<br> </span>2007<br>
+        </p>
+        <div class="accordion" id="accordion2" style="font-family: Futura ">
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#bschwarzTransCollapsable"> Select Transactions </a>
+                </div>
+                <div id="bschwarzTransCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>TGI Fridays</li> <br>
+                            <li>Heartland Brewery</li> <br>
+                            <li>Baracca</li> <br>
+                            <li>Baked by Melissa</li> <br>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#bschwarzAACollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="bschwarzAACollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>REBNY</li> <br>
+                            <li>ICSC</li> <br>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group" >
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#bschwarzEDUCollapsable"> Affiliations and Awards </a>
+                </div>
+                <div id="bschwarzEDUCollapsable" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        <ul>
+                            <li>Certificate in REal Estate, NYU</li> <br>
+                            <li>Licensed in New York</li> <br>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- accordion close -->
+    </div>
+</div>  <!-- End of Brad Schwarz -->
+
+
+
+
+<!-- ALLOW SPACE -->
